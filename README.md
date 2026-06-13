@@ -123,9 +123,18 @@ Found products whose sales decreased over the year.
 
 * Books and Sports categories generated strong revenue.
 * October recorded the highest overall sales.
-* Products with higher review scores generally performed better.
-* Several products showed significant year-over-year growth.
-* Customer reviews positively influenced sales performance.
+* Products with higher review scores generally achieved better sales performance.
+* Several products demonstrated significant sales growth throughout the year.
+* Customer reviews positively influenced purchasing decisions.
+
+## Project Outcome
+
+* Analyzed 1000+ product records using SQL.
+* Developed 15+ SQL queries to solve business problems.
+* Identified top-selling and low-performing products.
+* Generated revenue and category performance reports.
+* Analyzed sales trends and customer review impact.
+* Provided data-driven insights to support business decision-making.
 
 ## Repository Structure
 
